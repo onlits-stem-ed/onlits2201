@@ -31,8 +31,7 @@
     </div>
 
     <script>
-        // fetch('http://localhost:8000/api/leads').then((response) => response.json()).then((data => console.log(data)));
-        console.log(fetch('http://localhost:8000/api/leads'));
+        fetch('http://localhost:8000/api/leads').then((response) => response.json()).then((data => generateList(data)));
         function generateList(data) {
             for (i = 0; i < data.length; i++) {
                 listBody = document.getElementById('list_body');
