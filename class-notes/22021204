@@ -1,0 +1,17 @@
+
+	arrays are objects in JS
+	
+	char[]
+	string
+	
+	\0
+	
+	while(str[i] != '\0')
+	
+	Key column - uniquely identifed data
+	
+	Candidate Keys	-	id, email
+	
+	Primary Key	-	Id	(uniqueness, not null)
+	
+	Unique	-	email

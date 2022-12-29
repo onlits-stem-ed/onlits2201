@@ -1,0 +1,6 @@
+
+	INPUT "Enter a number: ", A
+	PRINT "The entered number is ", A
+	
+	sudo apt-get install
+	sudo apt install

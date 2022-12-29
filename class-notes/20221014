@@ -1,0 +1,14 @@
+
+	dictator
+	
+	user registration
+	
+	Three ways to register middleware:
+		1. Global
+		
+		
+	Chaining of objects
+	
+	Route::get('/profile', function () {
+	//
+	})->middleware('auth');

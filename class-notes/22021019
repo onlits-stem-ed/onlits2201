@@ -1,0 +1,38 @@
+
+	int arr[10] = {10, 20, 30};
+	
+
+	int arr[10];
+	scanf("%d", &arr[0]);
+	
+	
+	char arr[50] = "Mrityunjay";
+	
+
+	char arr[50];
+	scanf("%s", arr);
+	
+	Multimedia Keyboard
+	
+	Layout	-	Readymade
+	
+	
+	Which is the most used sorting algorithm?
+	
+	js
+	java
+	python
+	------------
+	ruby
+	scala
+	
+	
+	Create a new contact
+	Edit a contact
+	Delete a contact
+	Search a particular contact
+	Display all contacts (Alphabetically)
+	
+	
+	
+	

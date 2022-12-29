@@ -1,0 +1,9 @@
+
+	Wireframe
+		canva, 
+	UI Design
+	
+	composer create-project laravel/laravel new-app
+	laravel new new-app
+	
+	composer require global laravel/ui

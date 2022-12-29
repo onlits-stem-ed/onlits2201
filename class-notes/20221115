@@ -1,0 +1,25 @@
+
+	Command-line argument
+	
+	public static void main(String[] args) {
+	
+	}
+	
+	
+	php artisan make
+	
+	Time-space tradeoff
+	
+	
+	typedef struct __attribute((packed))__ node
+	{
+		int data;
+		struct node *link;
+	} NODE;
+	
+	int main(int argc, char const *argv[])
+	{
+		printf("The size of NODE is %ld bytes.", sizeof(NODE));
+	}
+	
+	The size of NODE is 16 bytes.

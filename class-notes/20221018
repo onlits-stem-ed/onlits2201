@@ -1,0 +1,7 @@
+	- Assumptions:
+		- Different devices may have different screen size.
+		
+		1920 x 1080
+		1366 x 768
+		
+		Developers must predict the production environment.

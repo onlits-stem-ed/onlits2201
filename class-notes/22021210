@@ -1,0 +1,21 @@
+
+	Seeders
+	
+	Asset
+		Fixed
+		Current
+			Debtors
+			Cash
+			Bank
+	Liability
+		Capital
+		Loan
+		Creditors
+	Income
+		Direct
+		Indirect
+	Expense
+		Direct
+		Indirect
+	
+	

@@ -1,0 +1,15 @@
+
+	Deep vs Shallow Classes
+	
+	SQL Injection
+	CSRF:	Cross Site Request Forgery
+	
+	
+	#include
+	#define
+	
+	int a;
+	
+	scanf("%d", &a);
+	
+	return 0;

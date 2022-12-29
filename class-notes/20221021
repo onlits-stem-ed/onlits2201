@@ -1,0 +1,21 @@
+
+	select * from user where uid='$uid' and password='$pass'
+	
+	select * from user where uid='dictator' --' and password='$pass'
+	
+	select * from user where uid = ? and password = ?;
+	
+	stmt.bind_param("ss", $uid, $pass);
+	
+	
+	$user = $con.query(select * from user where uid = '$uid');
+	
+	if($user[0]->password == $pass)
+	{
+	
+	}
+	
+	Trade off
+	
+	
+	

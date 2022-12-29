@@ -1,0 +1,14 @@
+
+	- Book Rental
+		* Home delivery
+		
+		
+	Leads Management
+		- id (autogenerate)
+		- first_name
+		- middle_name
+		- last_name
+		- contact_no
+	
+	Team Project
+		- Pull and push codes

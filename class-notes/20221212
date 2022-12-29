@@ -1,0 +1,26 @@
+
+	View	-	Webpage (HTML + CSS + JS + Blade)
+	Controller	-	Methods to process request
+	Route	-	File where requests are stated
+	Model	-	Representation of database tables
+	Migration - Classes to create and alter table definitions
+	Seeder	-	Classes to seed/initialize tables
+	
+	.env	-	Environment configuration (database)
+	
+	REST API
+	
+	Get over 1 lakh leads on prospective software consumers.
+	
+	LMS
+	
+	#include ->	Preprocessor directive
+	@csrf	->	Blade directive
+	
+	HTTP Verbs:
+		GET
+		POST
+		PUT
+		DELETE
+	
+	
