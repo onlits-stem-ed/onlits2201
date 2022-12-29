@@ -11,8 +11,8 @@ public class ConsumeLms {
                 .uri(URI.create("http://localhost:8000/api/leads"))
                 .build();
         client.sendAsync(request, BodyHandlers.ofString())
-        .thenApply(HttpResponse::body)
-        .thenAccept(System.out::println)
-        .join();
+                .thenApply(HttpResponse::body)
+                .thenAccept(System.out::println)
+                .join();
     }
 }
