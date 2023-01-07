@@ -4,13 +4,36 @@ LINQ
 Cigwin
 
 Resume Builder
-	- Homepage
-	- Templates
-	- Social
-	- Name
-	- Simple Signup (Create new resume)
+	- Homepage	(MM)
+	- Templates (MM)
+	- Social (MM)
+	- Name (MM)
+	- Simple Signup (Create new resume) (MK)
 	- Edit Resume (preview and download feature)
 	- User Dashboard
 
 Git Branches
 	Private Branches
+	
+	dbname - resume_builder_2201
+	
+	users
+		email
+		created_at
+		updated_at
+		
+		
+	Task assigned to MK. (branch: mk-simple-signup)
+	- Create a UI for simple signup page.
+	- Create 'users' table.
+	- For looks refer to resume.io.
+	
+	Task assigned to MM. (branch: mm-initial-config)
+	- Create pages for homepage, templates, social and name.
+	
+	
+	
+	- Clone the repository
+	- Install composer dependency
+	- Create and publish branch
+	
