@@ -1,0 +1,23 @@
+
+ Layout
+ 
+ Login
+ Home (List of Notices)	-	Read
+ Form for Notice - Create (From scratch/ From previous)
+ Options for modifying and deleting notice
+ 
+ 
+ 
+ txtFirstNumber
+ txtSecondNumber
+ lblFirstNumber
+ btnAdd
+ 
+ Private Sub BtnAdd_click(...)
+ 
+ End Sub
+ 
+ int intMarks
+ string strName
+ 
+ aspnet-core-app => kebabcase

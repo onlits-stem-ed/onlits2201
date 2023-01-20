@@ -1,0 +1,26 @@
+
+	Resume-builder
+	Notice-builder
+		- Name of the issuing organisation
+		- Title (NOTICE)
+		- Date
+		- Heading
+		- Body
+		- Issuer's name
+		- Issuer's designation
+		
+	SRS-builder
+	
+		Blog on student software projects
+		
+		+ 90% of the code written by students
+		
+		- lack of analysis skills
+		- too much time taken (Feb 22 - Jan 23) - 1 year
+		
+		
+		
+	Laravel is based on MVC pattern.
+	DotNet Webform is not cross platform
+	
+	<asp:textbox runat=server>
