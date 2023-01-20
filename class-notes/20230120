@@ -1,0 +1,20 @@
+
+	index.html
+
+	index.php
+	
+	
+	Default.aspx
+	Default.aspx.cs
+	
+	
+	int main()
+	{
+	
+		return 0;
+	}
+	
+	clear()	-	java
+	clear(void) - c
+	
+	Generation of Garbage Collector
