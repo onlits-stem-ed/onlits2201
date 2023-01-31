@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "/home/manish/batches/onlits2201/DotNet/SrsBuilder/obj/Debug/net6.0/project.razor.json",
-  "FilePath": "/home/manish/batches/onlits2201/DotNet/SrsBuilder/SrsBuilder.csproj",
+  "SerializedFilePath": "/home/manish/batches/onlits2201/DotNet/school-management/obj/Debug/net6.0/project.razor.json",
+  "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/school-management.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,7 +18371,43 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "SrsBuilder",
-  "Documents": [],
+  "RootNamespace": "school_management",
+  "Documents": [
+    {
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }

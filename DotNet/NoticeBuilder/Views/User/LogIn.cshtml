@@ -1,4 +1,8 @@
-@{
-    @* Layout = null; *@
-}
 <h1>Login</h1>
+<form action="/User/Authenticate">
+    <label for="user_id" class="form-label">User Id</label>
+    <input type="text" name="user_id" id="user_id" class="form-control"> <br>
+    <label for="password" class="form-label">Password</label>
+    <input type="password" name="password" id="password" class="form-control"> <br>
+    <button class="btn btn-primary">Login</button>
+</form>

@@ -1,0 +1,27 @@
+
+	Wayland
+	xorg
+	
+	global.asax (xml)
+	web.config (xml)
+	
+	global.json
+	
+	web.php
+	api.php
+	
+	php - plain web development (without framework)
+	
+	MySQLi
+	PDO
+	
+	ASP - HTML + CSS + JS + VB (without framework)
+	
+	python - plain web development (without framework)
+	
+	With CGI virtually any language.
+	
+	Dim adoCon = Server.createObject("ADODB.Connection")
+	
+	bike - bicycle
+	mobike - motor-cycle

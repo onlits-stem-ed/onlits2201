@@ -1,0 +1,30 @@
+
+	Design Patterns
+	
+	search - if the list is sorted then binary search else linear search
+	
+	void search(int *arr, int const size)
+	{
+		if(sorted == 0)
+			linear();
+		else
+			binary();
+	}
+	
+	void linear(int **arr, int const size)
+	{
+	
+	
+	}
+	
+	
+	int main(int const argc, char const *argv[])
+	{
+	
+	}
+	
+	Equalizer - 100 books
+	
+	Database - Entity Framework ORM
+	
+	How to read form data in ASP.net Controllers?
