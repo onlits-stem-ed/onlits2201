@@ -9,6 +9,11 @@ public class UserController : Controller
         return "User Controller's Default Method";
     }
 
+    public IActionResult NewUser()
+    {
+        return View();
+    }
+
     public IActionResult Login()
     {
         return View();
@@ -16,6 +21,7 @@ public class UserController : Controller
 
     public IActionResult Authenticate()
     {
+        ViewData["UserId"] = "new-user";
         return View("../Dashboard/Dashboard");
     }
 }

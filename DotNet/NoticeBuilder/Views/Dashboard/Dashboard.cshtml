@@ -1,1 +1,17 @@
-<h1>Dashboard</h1>
+@{
+    ViewData["Title"] = "Dashboard";
+}
+<h1>Dashboard</h1> <br>
+<button type="button" onclick="window.location.href='/Notice/NewNotice'" class="btn btn-primary">New Notice</button> <br> <br>
+
+<table class="table table-stripped">
+    <tr>
+        <th>Notice#</th>
+        <th>Date</th>
+        <th>Heading</th>
+    </tr>
+</table>
+
+<br> <br>
+
+<h1>@ViewData["UserId"]</h1>
