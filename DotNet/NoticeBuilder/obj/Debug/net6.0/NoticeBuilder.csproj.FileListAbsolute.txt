@@ -5,7 +5,6 @@
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/bin/Debug/net6.0/NoticeBuilder.deps.json
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/bin/Debug/net6.0/NoticeBuilder.runtimeconfig.json
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/bin/Debug/net6.0/NoticeBuilder.dll
-/home/manish/batches/onlits2201/DotNet/NoticeBuilder/bin/Debug/net6.0/ref/NoticeBuilder.dll
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/bin/Debug/net6.0/NoticeBuilder.pdb
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/NoticeBuilder.csproj.AssemblyReference.cache
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/NoticeBuilder.GeneratedMSBuildEditorConfig.editorconfig
@@ -24,3 +23,9 @@
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/ref/NoticeBuilder.dll
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/NoticeBuilder.pdb
 /home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/NoticeBuilder.genruntimeconfig.cache
+/home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/staticwebassets/msbuild.NoticeBuilder.Microsoft.AspNetCore.StaticWebAssets.props
+/home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/staticwebassets/msbuild.build.NoticeBuilder.props
+/home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.NoticeBuilder.props
+/home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.NoticeBuilder.props
+/home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/staticwebassets.pack.json
+/home/manish/batches/onlits2201/DotNet/NoticeBuilder/obj/Debug/net6.0/refint/NoticeBuilder.dll

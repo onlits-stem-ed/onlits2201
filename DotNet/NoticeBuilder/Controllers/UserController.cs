@@ -19,9 +19,16 @@ public class UserController : Controller
         return View();
     }
 
-    public IActionResult Authenticate()
+    public IActionResult Authenticate(string user_id, string password)
     {
-        ViewData["UserId"] = "new-user";
-        return View("../Dashboard/Dashboard");
+        if (user_id == "admin" && password == "admin")
+        {
+            ViewData["UserId"] = "new-user";
+            return View("../Dashboard/Dashboard");
+        }
+        else
+        {
+            return View("Login");
+        }
     }
 }
