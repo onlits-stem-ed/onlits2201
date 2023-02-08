@@ -1,0 +1,28 @@
+
+	.so
+	.a	-	archive
+	
+	.jar	-	java archive
+	.phar	-	php archive
+	
+	int add(int a, int b=0)
+	{
+		return a + b;
+	}
+	
+	int add(int a, int b) {
+		return a + b;
+	}
+	
+	
+	int add(int a) {
+		b = 0;
+		return a + b;
+	}
+	
+	Dictionary	-	Map	-	Associative Array	-	(key-value pair)
+	
+	Collections
+	
+	@ViewData["ProfilePhoto"] = LoadPhoto(...);
+	
