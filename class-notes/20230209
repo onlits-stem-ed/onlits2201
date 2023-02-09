@@ -1,0 +1,60 @@
+
+	Early binding
+	Late binding
+	
+	ChatGPT
+	
+	Engineering	-	T + P
+	Learn programming	-	P
+	
+	
+	MOOC	-	Massive Open Online Course	(Nptel Swayam)
+	
+	6 choices
+	
+	DS with python
+	
+	def mys(m):
+		if(m==1)
+			return 1
+		m = m * mys(m-1)
+		return m
+		
+	mys(n)
+	
+	return the factorial for any value of n
+	return the value of 1+2+3+...+n
+	return the factorial for any non-negative value of n
+	return the factorial for any positive value of n
+	
+	Seeders
+	
+	City
+	State
+	
+	con = new mysqli("......");		//connect.php
+	
+	include 'connection.php'
+	
+	php array to string
+	
+	implode	-	array to string
+	
+	select * from bus where route_id in ['R001','R002','R005'];
+	
+	O(1)
+	O(n)
+	
+	SQL Injection
+	
+	
+	student
+	reg_no 	name	dob		aadhar pan
+	
+	
+	student_001
+	reg_no 	name	dob		aadhar
+	
+	
+	
+	
