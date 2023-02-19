@@ -1,0 +1,42 @@
+
+	CGI	-	C, Perl
+	
+	PHP in windows with IIS (CGI)
+	
+	Spring
+	
+	Laravel - Component
+	
+	SqlConnection
+	SqlCommand
+	
+	ODBC
+	OLEDB
+	
+	MysqlConnection
+	MysqlCommand
+	
+	Code first approach: First write code for model
+	
+	Show Database
+	Show Tables
+	
+	Select name from sys.databases;
+	select name from sys.tables;
+	
+	.databases
+	.tables
+	
+	KISS
+	DRY
+	YAGNI
+	
+	System Features
+		Description
+		Priority
+		Use Case
+	
+	
+	In-memory data
+	
+	
