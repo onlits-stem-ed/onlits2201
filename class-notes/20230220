@@ -1,0 +1,22 @@
+
+	In laravel migration were used to create models.
+	In ASP.Net we have to create model classes.
+	
+	ORM
+	
+	Student
+	
+		ID	LName	FMName
+		1
+		
+	Enrollment
+		ID SID
+			1
+			2
+			3
+			1
+			
+	Book Sharing
+	Slam Book
+	
+	
