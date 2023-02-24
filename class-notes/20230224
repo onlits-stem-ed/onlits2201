@@ -1,0 +1,19 @@
+
+ HTTP request methods:
+ 	1. GET
+ 	2. POST
+ 	3. PUT
+ 	
+ Web?
+ 
+ Device Scaffolding Technique
+ 
+ public static void main(String[] args)
+ 
+ int main(int argc, char *argv[])
+ 
+ 
+ How the routing is working here?
+ How database connectivity is achieved?
+ 
+ 
