@@ -9,7 +9,7 @@ namespace ContosoUniversity.Data
 {
     public class SchoolContext : DbContext
     {
-        public SchoolContext (DbContextOptions<SchoolContext> options)
+        public SchoolContext(DbContextOptions<SchoolContext> options)
             : base(options)
         {
         }
@@ -19,5 +19,13 @@ namespace ContosoUniversity.Data
         public DbSet<ContosoUniversity.Models.Course> Course { get; set; }
 
         public DbSet<ContosoUniversity.Models.Enrollment> Enrollment { get; set; }
+
+
+        // protected override void OnModelCreating(ModelBuilder modelBuilder)
+        // {
+        //     modelBuilder.Entity<Course>().ToTable("Course");
+        //     modelBuilder.Entity<Enrollment>().ToTable("Enrollment");
+        //     modelBuilder.Entity<Student>().ToTable("Student");
+        // }
     }
 }
