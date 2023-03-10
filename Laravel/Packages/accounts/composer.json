@@ -1,0 +1,19 @@
+{
+    "name": "onlits2201/accounts",
+    "description": "Package for integrating financial accounts feature",
+    "type": "library",
+    "require": {
+        "laravel/ui": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Onlits2201\\Accounts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manish Kumar Mishra",
+            "email": "manishmishra.shg@gmail.com"
+        }
+    ]
+}

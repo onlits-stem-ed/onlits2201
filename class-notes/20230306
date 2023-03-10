@@ -1,0 +1,37 @@
+
+	Package Development
+	
+	React	-	Reusable components
+	
+	composer	-	dependency manager for PHP
+	
+	npm
+	
+	nuget
+	
+	composer require
+	
+	Package:	An independent module that can coupled in various 
+				projects
+				
+	Why packages:
+		1. Re-usability
+		2. Independent of business logic of a particular project
+		
+		
+		
+		pramanit
+		onlits account	-	single sign-on to multiple services
+		
+		Waterfall model
+		
+		accounting
+		inventory
+		payroll
+		
+	Pre-requisite:
+		1. Loose-coupling
+		2. Test Driven Development (TDD)
+		
+		
+	

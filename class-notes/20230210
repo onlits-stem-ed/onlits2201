@@ -1,0 +1,35 @@
+
+	- push code in github
+	- initialize your code with composer
+	
+	composer create-project laravel/laravel test
+	
+	composer require laravel/ui
+	
+	compser require laravel/breeze
+	
+	composer require --dev laravel/ui
+	
+	souce code
+	object code / executable code
+	
+	.gitignore
+	
+	
+	npm build-dev
+	
+	
+	git init
+	
+	composer init
+	
+	onlits2201/accounts
+	
+	facades vs contracts
+	
+	tower of hanoi
+		iterative
+		recursion
+		stack
+		
+		
