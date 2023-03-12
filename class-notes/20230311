@@ -1,0 +1,41 @@
+
+	.Net Database Connectivity
+	
+	Console App
+		ADO.Net
+		LINQ
+		Entity-Framework Core
+		Dapper
+		
+	dotnet add
+	
+	Eloquent	-	Laravel ORM
+	
+	Whether we can use Eloquent with vanilla PHP or not?
+	
+	-> Establish a connection to database
+	-> 
+	
+	
+	Sqlconnection	->	To connect to SQL Server database
+	
+	Draw C
+	
+	OLE	-	Object Linking & Embedding
+	
+	ODBC	-	Open Database Connectivity
+	
+	
+	Requirement Freezing
+	
+	- Create a small DBMS (SQL-based)
+	- Library to connect from a popular language
+	
+	
+	Scanner scanner = new Scanner(...);
+	
+	
+	scanner.close();
+	
+	
+	
