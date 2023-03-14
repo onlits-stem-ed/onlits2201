@@ -1,0 +1,17 @@
+
+	txtFirstNumber
+	
+	TxtFirstNumber
+	
+	
+	public void txtFirstNumber_click()
+	
+	DAO
+	RDO
+	ADO	-	ActiveX Data Objects	-	RecordSet (table)
+	-------------------------------------------------------------
+	ADO.Net	-							DataSet (multiple tables)
+	
+	DataTable	=	RecordSet
+	
+	SQL Server CE
