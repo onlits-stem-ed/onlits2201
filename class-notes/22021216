@@ -1,0 +1,19 @@
+
+	Connection
+	
+	ORM
+	ADO.Net
+	
+	Business Layer
+	Data Access Layer
+	
+	Use Eloquent in a vanilla PHP project.
+	
+	EF in console app
+	
+	Hibernate in java console app
+	
+	TDD
+		Red Zone
+		Green Zone
+		Blue Zone	-	Refactoring
