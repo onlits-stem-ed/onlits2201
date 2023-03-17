@@ -17,6 +17,7 @@ namespace DatabaseConnectivity
             {
                 Console.WriteLine(dataReader["admission_no"] + "\t" + dataReader["name"]);
             }
+            dataReader.Close();
             connection.Close();
         }
     }
