@@ -1,0 +1,14 @@
+
+	Connected way
+	Disconnected way
+	
+	DataReader represents a stream of data.
+	
+	System.out.println();
+	
+	
+	View
+	Conceptual
+	Physical
+	
+	dataset.tables(0).Rows.Add(dataRow)

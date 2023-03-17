@@ -27,13 +27,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -42,8 +42,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FilePath": "/home/manish/batches/onlits2201/DotNet/school-management/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
