@@ -1,0 +1,12 @@
+
+	SQL Injection
+	
+	-- 
+	
+	/**/	-	multiline comments
+	
+	
+	Select * from users where user_id='$uid' and password='$pass';
+	
+	
+	core
