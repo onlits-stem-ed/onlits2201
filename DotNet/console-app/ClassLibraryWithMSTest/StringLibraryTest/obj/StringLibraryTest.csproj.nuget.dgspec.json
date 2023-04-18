@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibraryTest/StringLibraryTest.csproj": {}
+  },
+  "projects": {
+    "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/StringLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/StringLibrary.csproj",
+        "projectName": "StringLibrary",
+        "projectPath": "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/StringLibrary.csproj",
+        "packagesPath": "/home/manish/.nuget/packages/",
+        "outputPath": "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/manish/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibraryTest/StringLibraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibraryTest/StringLibraryTest.csproj",
+        "projectName": "StringLibraryTest",
+        "projectPath": "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibraryTest/StringLibraryTest.csproj",
+        "packagesPath": "/home/manish/.nuget/packages/",
+        "outputPath": "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibraryTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/manish/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/StringLibrary.csproj": {
+                "projectPath": "/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/StringLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

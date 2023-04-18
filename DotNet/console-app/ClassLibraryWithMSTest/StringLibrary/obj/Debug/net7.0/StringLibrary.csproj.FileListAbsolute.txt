@@ -1,0 +1,12 @@
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/bin/Debug/net7.0/StringLibrary.deps.json
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/bin/Debug/net7.0/StringLibrary.dll
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/bin/Debug/net7.0/StringLibrary.pdb
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/StringLibrary.csproj.AssemblyReference.cache
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/StringLibrary.AssemblyInfoInputs.cache
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/StringLibrary.AssemblyInfo.cs
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/StringLibrary.csproj.CoreCompileInputs.cache
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/StringLibrary.dll
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/refint/StringLibrary.dll
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/StringLibrary.pdb
+/home/manish/batches/onlits2201/DotNet/console-app/ClassLibraryWithMSTest/StringLibrary/obj/Debug/net7.0/ref/StringLibrary.dll

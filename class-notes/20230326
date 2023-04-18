@@ -1,0 +1,11 @@
+
+	import static org.junit.Assert.*;	//only static methods are  
+										  imported
+										  
+										  
+	class Test {
+		public static void main() {
+			assertEquals();		//This is possible because of static 
+								  import
+		}
+	}

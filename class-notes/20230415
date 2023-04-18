@@ -1,0 +1,20 @@
+
+	POJO	-	Plain Old Java Objects
+	POCO	-	Plain Old CLR Objects
+	
+	In case we need to declare any other field as primary key other
+	than Id field then what is to be done?
+	
+	O(nc^n)
+	
+	factorial:
+		O(1^n)	=	O(n)
+		
+	fibonacci
+		O(2^n)
+		
+	- Practice sevaral designs for a problem
+	
+	Connection con = DriverManager.getConnection(url);
+	
+	

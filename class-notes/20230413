@@ -1,0 +1,22 @@
+
+	Patterns:
+		Factory
+		Facade
+		
+	Master
+	Northwind
+	
+	
+	Embedded application programming is different from
+	from web application programming
+	
+	
+	stuct xyz
+	{
+	
+		int f();
+	};
+	
+	primitive
+	derived	-	array, pointer, function
+	user defined

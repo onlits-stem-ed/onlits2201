@@ -1,0 +1,49 @@
+
+	if(str1 == str2)
+	
+	if(str1.equals(str2))
+	
+	if(str1.compareTo(str2))
+		return 0, if the string are same
+		if str1 is greater then positive
+		if str2 is greater then negative
+	
+	
+	Here a, b and are user-defined types
+	c = a + b;
+	or
+	c = a.add(b);
+	
+	void setId(int id) {
+		this.id = id;
+	}
+	
+	int getId() {
+		return id;
+	}
+	
+	
+{
+	"name":"make notes on webapi.",
+	"isComplete":true
+}
+
+{
+	"name":"work on examples on webapi.",
+	"isComplete":false
+}
+
+{
+	"name":"go through project report on the ongoing projects",
+	"isComplete":false
+}
+
+{
+	"name":"attend webinar on 'New Trend in Programming'",
+	"isComplete":false
+}
+
+
+https://www.parentsalarm.com/User/Student/StudentReceipt?Stid=1280081&PayId=6034405
+
+

@@ -1,0 +1,27 @@
+
+	C
+	R	-	LINQ
+	U
+	D
+	
+	Select
+		order by clause	-	sorting
+		where - filtering
+		
+		
+	printf("The number is %d.", num);		//Primarily C but can be 
+											  used in C++
+	
+	cout << "The number is " << num << ".";	// C++
+	
+	System.out.println("The number is " + num + ".");	//Java
+	System.out.printf("The numbers are %d and %d.", num1, num2);
+	
+	Console.WriteLine("The number is " + num + ".");
+	Console.WriteLine("The numbers are {0} and {1}.", num1, num2);
+	
+	echo "The numbers are $num1 and $num2.";
+	
+	print(f"The numbers are {num1} and {num2}.")
+	
+	

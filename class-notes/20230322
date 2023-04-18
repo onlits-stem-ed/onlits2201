@@ -1,0 +1,35 @@
+
+	default
+	
+	void test() {
+	
+	}
+	
+	unit test on controller action
+	
+	MVC
+	
+	Controller methods are known as action.
+	
+	Unit in a program: The smallest testable unit usually a function
+	method.
+	
+	public function authenticate(Request $request): void
+	{
+	
+	}
+	
+	TDD
+		Test Case
+		
+	Clean Architecture	-	.NET
+	
+	Domain
+	Application
+	Infrastructure
+	Presentation
+	
+	Repository Pattern
+	Inversion of Control
+	
+	

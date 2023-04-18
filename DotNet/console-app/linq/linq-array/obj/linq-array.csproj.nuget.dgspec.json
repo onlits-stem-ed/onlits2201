@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/linq-array.csproj": {}
+  },
+  "projects": {
+    "/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/linq-array.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/linq-array.csproj",
+        "projectName": "linq-array",
+        "projectPath": "/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/linq-array.csproj",
+        "packagesPath": "/home/manish/.nuget/packages/",
+        "outputPath": "/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/manish/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eVFJL5e0QtUadexM3hLAoDDQm7hAKtEkaNRYundUqbvUATO8FYPSecF+19gdRAtOyzoUv8bQbnlSCUjaludKQ==",
+  "success": true,
+  "projectFilePath": "/home/manish/batches/onlits2201/DotNet/webapi/TodoApiMinimal/TodoApiMinimal.csproj",
+  "expectedPackageFiles": [
+    "/home/manish/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/7.0.5/microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.5.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.5/microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.5/microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.5/microsoft.entityframeworkcore.inmemory.7.0.5.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.5/microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

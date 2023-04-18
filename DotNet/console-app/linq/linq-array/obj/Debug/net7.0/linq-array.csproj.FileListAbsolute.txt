@@ -1,0 +1,15 @@
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/bin/Debug/net7.0/linq-array
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/bin/Debug/net7.0/linq-array.deps.json
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/bin/Debug/net7.0/linq-array.runtimeconfig.json
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/bin/Debug/net7.0/linq-array.dll
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/bin/Debug/net7.0/linq-array.pdb
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/linq-array.csproj.AssemblyReference.cache
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/linq-array.GeneratedMSBuildEditorConfig.editorconfig
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/linq-array.AssemblyInfoInputs.cache
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/linq-array.AssemblyInfo.cs
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/linq-array.csproj.CoreCompileInputs.cache
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/linq-array.dll
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/refint/linq-array.dll
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/linq-array.pdb
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/linq-array.genruntimeconfig.cache
+/home/manish/batches/onlits2201/DotNet/console-app/linq/linq-array/obj/Debug/net7.0/ref/linq-array.dll
