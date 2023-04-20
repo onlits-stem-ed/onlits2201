@@ -1,0 +1,22 @@
+
+	Anonymous function
+	Closure
+	
+	
+	void fun(int n, () {
+		return 10 + 20;
+	}) {
+	
+	}
+	
+	
+	void fun(int n, () => 10 + 20){
+	
+	}
+	
+	
+	void fun(int n) {
+		int sum = sum(10, 20);
+	}
+	
+	VB vs Java
