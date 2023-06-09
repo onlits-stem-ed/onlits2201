@@ -1,0 +1,8 @@
+@model TodoAppPostgres.Models.Todo
+
+
+<form action="/Todo/SaveData" method="post">
+    @* <input type="text" name="todo" id="todo" placeholder="Add a new todo"> *@
+    @Html.TextBoxFor(todo => todo.Name)
+    <button>Submit</button>
+</form>

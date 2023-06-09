@@ -13,9 +13,6 @@
         "packagesPath": "/home/manish/.nuget/packages/",
         "outputPath": "/home/manish/batches/onlits2201/DotNet/ContosoUniversity/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "/home/manish/.nuget/NuGet/NuGet.Config"
         ],
@@ -89,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

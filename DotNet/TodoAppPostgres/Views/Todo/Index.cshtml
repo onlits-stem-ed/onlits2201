@@ -1,0 +1,20 @@
+@{
+    ViewData["title"] = "Todo Office";
+}
+<h1>Todo App Home</h1>
+<p><a href="/Todo/Create">Create</a></p>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Task</th>
+        <th>Status</th>
+    </tr>
+    @foreach (var todo in (List<Todo>)ViewData["todos"])
+    {
+        <tr>
+            <td>@todo.Id</td>
+            <td>@todo.Name</td>
+            <td>@todo.CompletedStatus</td>
+        </tr>
+    }
+</table>
