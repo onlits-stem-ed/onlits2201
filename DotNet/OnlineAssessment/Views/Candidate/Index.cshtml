@@ -1,0 +1,33 @@
+@model List<Candidate>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Candidate Home</h1>
+    <p><a asp-controller="Candidate" asp-action="Create" class="btn btn-primary">New Candidate</a></p>
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Gender</th>
+            <th></th>
+            <th></th>
+        </tr>
+    @foreach (var candidate in Model)
+    {
+        <tr>
+            <td>@candidate.Id</td>
+            <td><a asp-controller="Candidate" asp-action="Details" asp-route-id="@candidate.Id">@candidate.Name</a></td>
+            <th>@candidate.Gender</th>
+            <th><a asp-controller="Candidate" asp-action="Edit" asp-route-id="@candidate.Id">Edit</a></th>
+            <th><a asp-controller="Candidate" asp-action="Delete" asp-route-id="@candidate.Id">Delete</a></th>
+        </tr>
+    }
+    </table>
+</body>
+</html>

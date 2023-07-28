@@ -1,0 +1,27 @@
+@model Candidate
+
+@{
+    ViewData["Title"] = "New Candidate";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>New Candidate</h1>
+    <form action="" method="post">
+        <label asp-for="Name" class="form-label"></label>
+        <input type="text" asp-for="Name" required class="form-control">
+        <label asp-for="Gender" class="form-label mt-3"></label>
+        <select asp-for="Gender" class="form-control">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </select>
+        <button class="btn btn-primary mt-3">Submit</button>
+    </form>
+</body>
+</html>

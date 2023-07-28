@@ -1,0 +1,22 @@
+
+	Mrityunjay Kumar		-	Datum
+	Manish Kumar Mishra		-	Datum
+	
+	Full Name of persons	-	Metadatum
+	
+	
+	Check for valid full name	-   Mrityunjay Kumar
+	Check for valid PAN pattern	-	ABCDE1234W
+	check for valid IFSC pattern -	ABCD0123456
+	check for valid Date pattern -	MM/DD/YYYY, DD/MM/YYYY
+									DD-MMM-YYYY
+	check for valid time pattern -  hh:mm:ss
+	
+	check for valid password pattern - 
+	
+	check for valid ip address v4 and v6 - 192.168.1.1
+	
+	password strength
+	
+	
+	"/^[A-Z]{5}[0-9]{4}[A-Z]/"
