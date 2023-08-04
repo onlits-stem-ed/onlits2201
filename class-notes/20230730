@@ -1,0 +1,55 @@
+
+	Scenario 1: (Flipkart, Amazon)
+		Platform	(Admin)
+			Seller Management
+			Collection
+			Rigorous Accounting System
+			"		 Feedback System
+		Seller
+			Registration
+			Create Catalog
+			Order Processing
+			Reports
+				Order Reports
+					All
+					Pending
+					Completed
+					Refund
+				Total Sales
+				Stock
+				Collection
+		Buyer
+			Registration
+			Authentication & Authorization
+			Catalog/Product listing/Search for filter
+			Wishlist
+			Cart
+		
+	Scenario 2: (Reliance Trends/Digital)
+		Seller
+			Registration
+			Authentication & Authorization
+			Account Information
+			*Purchases & Returns (Accounting + Inventory)
+			Order Processing
+			Invoicing
+			Order Return/Refund
+			Expenses Management
+			Report
+				
+		Buyer
+			Registration
+			Authentication & Authorization
+			Catolog/Product listing/Search for filter
+			Wishlist
+			Cart
+			Order History
+			Account Information
+			Order Status
+			
+			Operational
+			Managerial
+			
+			
+			
+	

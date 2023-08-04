@@ -1,0 +1,22 @@
+	4:3
+	16:9
+	
+	
+	Assessment
+		Id
+		Name
+		Date
+		Time
+		Duration
+	
+		
+	public class Assessment
+	{
+		int Id;
+		string Name;
+		DateOnly Date;
+		TimeOnly Time;
+		int Duration;
+		List<Candidate> Candidates;
+		List<Question> Questions;
+	}

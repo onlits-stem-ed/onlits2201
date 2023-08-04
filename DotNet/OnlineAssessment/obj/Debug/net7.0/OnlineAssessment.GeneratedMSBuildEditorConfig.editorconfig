@@ -16,8 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/manish/batches/onlits2201/DotNet/OnlineAssessment
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/manish/batches/onlits2201/DotNet/OnlineAssessment/Views/Assessment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXNzbWVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/manish/batches/onlits2201/DotNet/OnlineAssessment/Views/Candidate/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FuZGlkYXRlL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/manish/batches/onlits2201/DotNet/OnlineAssessment/Views/Candidate/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FuZGlkYXRlL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/manish/batches/onlits2201/DotNet/OnlineAssessment/Views/Candidate/Edit.cshtml]

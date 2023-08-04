@@ -12,5 +12,6 @@ namespace OnlineAssessment.Models
 
         public DbSet<Question>? Questions { get; set; }
         public DbSet<Candidate>? Candidates { get; set; }
+        public DbSet<Assessment>? Assessments { get; set; }
     }
 }
