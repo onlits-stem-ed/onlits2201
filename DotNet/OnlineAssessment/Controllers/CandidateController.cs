@@ -36,15 +36,27 @@ namespace OnlineAssessment.Controllers
             return View("Index", candidates);
         }
 
-        public string Details(int id)
+        public IActionResult Details(int id)
         {
-            return "Details Method";
+            Candidate candidate = _context.Candidates.Find(id);
+            return View(candidate);
         }
 
         public IActionResult Edit(int id)
         {
             Candidate candidate = _context.Candidates.Find(id);
             return View(candidate);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(int id, Candidate candidate)
+        {
+            Candidate _candidate = _context.Candidates.Find(id);
+            _candidate.Name = candidate.Name;
+            _candidate.Gender = candidate.Gender;
+            _context.SaveChanges();
+            List<Candidate> candidates = _context.Candidates.ToList();
+            return View("Index", candidates);
         }
 
         public string Delete(int id)
