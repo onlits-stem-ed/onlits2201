@@ -1,0 +1,15 @@
+{
+    "name": "onlits2201/empty-composer",
+    "autoload": {
+        "psr-4": {
+            "Onlits2201\\EmptyComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manish Kumar Mishra",
+            "email": "manishmishra.shg@gmail.com"
+        }
+    ],
+    "require": {}
+}
