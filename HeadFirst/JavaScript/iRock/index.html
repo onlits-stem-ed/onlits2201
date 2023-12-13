@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body onload="alert('Hello, I am your pet rock.')">
+    <div style="margin-top: 100px; text-align: center;">
+        <img id="rockImg" src="images/rock.jpg" alt="rock" style="height: 300px; width: 400px;" onclick="greeting()">
+    </div>
+    <script>
+        function greeting() {
+            let name = prompt("Please enter your name:");
+            alert("Hello! " + name);
+            document.getElementById("rockImg").src = "images/rock_happy.jpg";
+        }
+    </script>
+</body>
+
+</html>

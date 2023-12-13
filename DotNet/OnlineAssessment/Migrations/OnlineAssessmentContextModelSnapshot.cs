@@ -38,7 +38,7 @@ namespace OnlineAssessment.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Assessment");
+                    b.ToTable("Assessments");
                 });
 
             modelBuilder.Entity("OnlineAssessment.Models.Candidate", b =>
@@ -83,6 +83,22 @@ namespace OnlineAssessment.Migrations
                     b.HasIndex("AssessmentId");
 
                     b.ToTable("Questions");
+                });
+
+            modelBuilder.Entity("OnlineAssessment.Models.User", b =>
+                {
+                    b.Property<string>("UserId")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Password")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Role")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("UserId");
+
+                    b.ToTable("Users");
                 });
 
             modelBuilder.Entity("OnlineAssessment.Models.Candidate", b =>

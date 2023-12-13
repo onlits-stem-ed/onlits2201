@@ -2,7 +2,8 @@
     "name": "onlits2201/empty-composer",
     "autoload": {
         "psr-4": {
-            "Onlits2201\\EmptyComposer\\": "src/"
+            "Onlits2201\\EmptyComposer\\": "src/",
+            "Onlits2201\\MyTestFramework\\": "mytestframework/"
         }
     },
     "authors": [
@@ -11,5 +12,7 @@
             "email": "manishmishra.shg@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
 }

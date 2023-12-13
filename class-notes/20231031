@@ -1,0 +1,74 @@
+
+ Map is an interface
+ 
+ ArrayList
+ 
+ 
+ DS (Concept) and ADT (Implementation)
+ 
+ node
+ 
+ public class Student {
+ 	
+ }
+ 
+ malloc()	-	single chunk (40)
+ calloc()	-	for collection ( 10, 4)
+ realloc()
+ 
+ 
+ Delete all rows O(n)
+ Truncate O(1)
+ 
+ 1 - 3v
+ 0 - 0.5v
+ 
+ interface Test {
+ 	int testing(int n, int m);
+ }
+ 
+ 
+ class TestA implements Test {
+ 	int testing(int n, int m) {
+ 	{
+ 		int a;
+ 		a = n + m;
+ 		return a;
+ 	}
+ 
+ }
+ 
+ 
+ class TestB implements Test {
+ 	int testing(int n, int m) {
+ 		int b;
+ 		b = n + m;
+ 		return b;
+ 	}
+ }
+ 
+ 
+ Pointer to base class
+ 
+ Test *t = new TestA();
+ 
+ class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> result;
+        for(int i=0; i<nums.size() - 1; i++)
+        {
+            for(int j=0; j<nums.size(); j++)
+            {
+                if(nums[i] + nums[j] = target)
+                {
+                    result.add(i);
+                    result.add(j);
+                    break;
+                }
+            }
+        }
+        return result;
+    }
+};
+ 
