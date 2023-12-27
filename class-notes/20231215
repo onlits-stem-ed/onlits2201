@@ -1,0 +1,42 @@
+
+	Analysis
+	
+	Chess Engine
+	
+	NBFI
+	
+	Business Rules
+		Starting List of players (assigned ranks)
+			Sorted on the basis of entry
+			Sorted in alphabetical order
+			Sorted on the basis of rating
+		No two players will play against each other more than once
+		
+		
+	You are given total number of students in a class and total
+	number of seats in the class. WAP to assign a seat randomly
+	to a student.
+	
+	1-60	-	student
+	1-100	-	seats
+	
+	1	-	34
+	2	-	19
+	3	-	19
+	
+	Come out of comfort zone.
+	
+	C me function se multiple values kaise return karege
+		pointers
+		return in an array
+		
+	Write a function to accept two integers. Divide the first by 
+	second and return both quotient and remainder.
+	
+	SQ3R
+	
+	?:, break, continue
+	
+	EOF
+	
+	

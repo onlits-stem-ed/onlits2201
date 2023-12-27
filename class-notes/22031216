@@ -1,0 +1,45 @@
+
+	Design
+		POP
+		OOP
+		
+	class Student {
+		private String name;
+		private int age;
+		private String phoneNumber;
+		private int boardMarks;
+		private static int studentCount;
+		
+		Student(String name, int age, String phoneNumber, int boardMarks) {
+			this.name = name;
+			this.age = age;
+			this.phoneNumber = phoneNumber;
+			this.boardMarks = boardMarks;
+		}
+		
+		bool eligible() {
+			if(boardMarks>40)
+				return true;
+			else
+				return false;
+		}
+		
+		static void increaseStudentCount() {
+			studentCount++;
+		}
+		
+		public static void main(String[] args) {
+			Student s1 = new Student('Raju Kumar', 20, '8456953258', 56);
+			
+			Student s2 = new Student('Ujjwal Kumar', 21, '7458236985', 65);
+			
+		}
+	}
+	
+	
+	
+	Flash (ActionScript)
+	Silverlight
+	Character Map
+	
+	

@@ -1,0 +1,80 @@
+
+	public class Node {
+		private int data;
+		private Node next;
+		
+		public Node(int data) {
+			this.data = data;
+		}
+		
+		public void setData(int data) {
+			this.data = data;
+		}
+		
+		public int getData() {
+			return data;
+		}
+		
+		public void setNext(Node next) {
+			this.next = next;
+		}
+		
+		public Node getNext() {
+			return next;
+		}
+	}
+	
+	
+	public class LinkedList {
+		private Node head;
+		
+		public Node() {
+			head = NULL:
+		}
+		
+		public setHead(Node head) {
+			this.head = head;
+		}
+		
+		public Node getHead() {
+			return head;
+		}
+		
+		public void display() {
+		
+		}
+		
+		public void addNode(int data) {
+			cn.next = new Node();
+			cn.next.data = data;
+			cn.next.next = NULL;
+		}
+		
+		public void removeNode() {
+		
+		}
+	}
+	
+	
+	
+	public class LinkedListTest {
+		public static void main(String[] args) {
+			LinkedList linkedList = new LinkedList();
+			linkedList.display();
+			linkedList.addNode(10);
+			linkedList.addNode(20);
+			linkedList.addNode(30);
+		}
+	}
+	
+	
+	OOPS
+	
+	Message Passing
+	Dynamic Binding
+	
+	Tournament (model) -> fetch all data -> ToList()
+	
+	Deep vs Shallow Classes
+	
+	
