@@ -1,0 +1,28 @@
+
+	Use Case Diagram
+	
+	1. Register Seller
+		i) Seller fills and submits the form.
+		ii) System confirms seller creation.
+		iii) System sends confirmation email to the seller.
+	
+	2. Create product
+		i) Seller supplies the details of a product to the system.
+		
+	3. Register Customer
+	
+	
+	elite 
+	
+	Onlits Technologies
+	
+	Wipro
+	Tata
+	
+	Nehru place
+	Lamington Road
+	
+	Cocoblu retail
+	
+	Physical DFD
+	Logical DFD

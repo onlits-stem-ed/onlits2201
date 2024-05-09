@@ -1,0 +1,44 @@
+
+	DJango	-	Backend Framework
+	
+	Application is under production
+	
+	.env
+	.env.example
+	
+	Bitbucket
+	
+	D1		-	B1
+	D2		-	B2
+	D3	M -	-	B3	
+	D4		-	B4
+	D5		-	B5
+	
+	
+	Word Processing
+	Word, Writer, Wordperfect
+	
+	M	-	Model			-	Data
+	V	-	View			-	UI
+	C	-	Controller		-	Request Handler
+	
+	M	-	Model	-	Data
+	V	-	View	-	Request Handler
+	T	-	Template-	UI
+	
+	
+	Enquiry/Inquiry	-	Noun, Verb
+	Enrollment
+	
+	Lead	-	Lead Management System
+	
+	Firstcry Intellitot
+	
+	Guest
+	Member
+	
+	
+	UML
+	
+	DJango Project	-	a collection of apps
+	

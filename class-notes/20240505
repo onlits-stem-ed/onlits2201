@@ -1,0 +1,43 @@
+
+	client/user code	-	Classes
+	
+	framework/platform	//Interface
+	
+	DBMS	-	Classes
+	
+	Connection	-	Interface
+	
+	Enterprise Application
+	
+	Compiler
+	Operating System
+	
+	OLS	-	Onlits Learning Solutions
+	
+	Payment Gateway Integration
+	
+	C
+	C++
+	Java
+	
+	
+	
+	Account	-	A list of financial transactions related to a 
+				particular business entity.
+				
+	Account
+		id: int
+		name: string
+		group: string
+		openingBalance: float
+		
+		
+	Domain Layer	-	Sales (not necessarily DES)
+						Seller
+						Customer
+	
+	System Layer	-	Accounting Transaction (DES)
+						Sales - Income
+						Sellers - Creditors
+						Customer - Debtors
+	

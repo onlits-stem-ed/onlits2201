@@ -1,0 +1,33 @@
+
+ SRS
+ 
+ E-Commerce
+ 
+ GSTIN
+ 
+ 445	-	28%
+ 
+ Input	-	500 + 500 + 500		(100)
+ Output	-	50000	-	10000
+ 
+ CRC cards
+ 
+ Chess
+ 
+ 	- Register a customer
+ 	- Place Order
+ 	
+ 	Algorithm
+ 		- Natural language
+ 		- Flowchart
+ 		- Pseudocode
+ 		- Programming language
+ 		
+ 	#include <stdio.h>
+ 	
+ 	Entity
+ 	Relationship
+ 	
+ 	Binary relationship (1:1, 1:N, N:1) exclude M:N
+ 	
+ 	Old school

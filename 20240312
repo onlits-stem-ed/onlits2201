@@ -1,0 +1,39 @@
+
+	Master
+		account
+	Transaction
+	
+	
+	Pen is sold to customer @Rs 10 (cash/credit) currency notes, upi
+	
+	sales					(
+	customer/cash/bank
+	capital
+	drawings
+	electicity
+	rent
+	donation
+	
+	
+	cash a/c
+	profit & loss a/c
+	
+	Asset
+	Liability
+	Income
+	Expenses
+	
+	28 groups
+	
+	
+	account_id (PK)
+	name (unique)		FK	
+	
+	
+	CASE
+	
+	Software
+		Order
+	
+	DDL	-	Migrations
+	DML	-	

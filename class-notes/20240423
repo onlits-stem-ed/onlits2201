@@ -1,0 +1,19 @@
+
+	Tournament
+	
+	Player
+	
+	DRY
+	
+	C	-	Create	(Modifier)		-	setter
+	R	-	Read	(Query)			-	getter
+	U	-	Update	(Modifier)		-	setter
+	D	-	Delete (Modifier)		-	setter
+	
+	
+	Connection connection = DriverManager.getConnection();
+							Connection
+							MysqlConnection
+							PgConnection
+							
+	Statement statement = connection.createStatement();

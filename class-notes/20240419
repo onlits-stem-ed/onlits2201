@@ -1,0 +1,27 @@
+
+ Perfect
+ 
+ Expense Manager
+ 	Category (Vital, Essential, Desirable) - VED
+ 	
+ 	Vital
+ 		- Food
+ 		- Room Rent
+ 		- Electricity
+ 		- Phone expenses
+ 		- Medicine
+ 	Essential
+ 		- Books
+ 		- Bicycle
+ 	Desirable
+ 		- Bike
+ 		
+ 	
+ 	employee
+ 		teachers
+ 		clerks
+ 		administrators
+ 		
+ 	MVC	-	Architecture Pattern
+ 	
+ 	

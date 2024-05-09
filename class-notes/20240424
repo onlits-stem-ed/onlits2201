@@ -1,0 +1,49 @@
+
+	Attendance
+		Student_id	Name	Batch_id
+	
+	Batch
+		Batch_id	Course	Sem
+		
+	Timetable
+		T_id	Batch_id
+	
+	Mark_Attendance
+		Id	T_id	Sid
+		
+	
+	StudentA	1	P
+	StudentB	2	A
+	StudentC	3	P
+	
+	Function
+	Join
+	
+	Seller
+		register()
+		update(int)
+		remove(int)
+		getSellers()
+		getSeller(int)
+		
+	
+	Product
+		setProduct()
+		getProducts()
+		getProduct(int)
+		update(int)
+		remove(int)
+	
+	Stock
+		in()
+		out()
+	
+	Catalog
+		setCatalog()
+			
+	Assumptions
+	Limitations
+	
+	Repeatition
+	
+	
