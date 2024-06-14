@@ -1,0 +1,98 @@
+
+	Journalise (Sales - order, gst collection)
+		- expenses, assets, liabilities (Accountant)
+	
+	Posting
+	Summarising
+	
+	Bill To
+	Mrityunjay Kumar
+	
+	Seller
+	Akash Masala
+	
+	1.			Item price		GST		Total
+	2.
+	
+	Sales
+	GST collection
+	
+	Supplier signup
+		user + financial account created
+	Supplier add its products in the system
+	Create product catalog (Home)
+	Customer signup
+	Add to cart
+	
+	
+	Transaction	-	give & take
+	
+	A transaction has a two sided effect. These effects are sometimes
+	referred to as debit & credit.
+	
+	Knowledge	-	Abstract (idea)
+	
+	Account
+		List of transaction related to a particular subject is called
+		account.
+		
+	Types of Account
+		-> Personal account (Natural person + Artificial person)
+		-> Real account	(Properties of a business)
+		-> Nominal account (Expenses & Income)
+		
+		
+	Types of Account		Debit (Dr)			Credit (Cr)
+	-----------------------------------------------------------
+	Personal Account		The receiver		The giver
+	Real Account			What comes in		What goes out
+	Nomial Account			Expenses & losses	Incomes & gains
+	
+	Cash A/c Dr.			100000
+		To Capital A/c (P)							100000
+		
+		
+	Dr.	Cash				100000
+	Cr. Capital							100000
+		
+	
+	Transaction
+	tid	date		naration
+	1	11/05/2024	
+	
+	Transaction details
+	id	tid name	type Amount
+	1	1	cash	dr		100000
+	2	1	capital	cr		100000
+	
+	
+	
+	
+	Sl	Id	Items		Rate	Disc	Qty	 gst%	Amount
+	1	4	Maggi 280	280		80		1	 12		200	
+	2	7	Britania	140		30		1	 12		110
+	------------------------------------------------------
+					Taxable							276.79
+					gst								33.21
+					Total							310
+	---------------------------------------------------
+					
+					
+	Dr.	Mrityunjay Kumar		310
+	Cr.	Sales							310
+	
+	
+					
+	gst% = (100 x gst)/100 + gst = (100 x 12)/100 + 12
+	= 1200/112
+	
+	10.71
+	
+	Session
+	Authentication
+	
+	
+	
+	
+	
+	

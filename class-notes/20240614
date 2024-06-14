@@ -1,0 +1,26 @@
+
+	1. Extend a class (inheritance)
+	2. Implement interfaces
+	
+	Runnable Interface
+	
+	Polymorphism
+		- Compile-time
+			- Method overloading (same class)
+		- Run-time
+			- Method overriding (inheritance)
+			
+	
+	Class OverloadingExample {
+		int sum(int a, int b) {
+			return a + b;
+		}
+		
+		int sum(int a, int b, int c) {
+			return a + b + c;
+		}
+		
+		public static void main(String[] args) {
+			System.out.println(new OverloadingExample().sum(10.0F, 20.0F, 30.0F));
+		}
+	}

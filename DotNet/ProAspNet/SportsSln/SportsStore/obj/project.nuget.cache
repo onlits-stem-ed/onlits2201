@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7WfYQ6giaEKVZH6U/oFzM0DuV35hqp/m3LT4O91RAT9SpvIWft83Yup9tl9xsMioGZmsI58nUOj0KEHf1l8/UQ==",
+  "dgSpecHash": "zGKmfk1YlU/dJ1gWnui6QmROapixIOfgtWl5P4uM6BTV0axg+XP+Y/ThFu6bSmoh/b69u/5YCR9onfIpxVrqNg==",
   "success": true,
   "projectFilePath": "/home/manish/batches/onlits2201/DotNet/ProAspNet/SportsSln/SportsStore/SportsStore.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,8 @@
     "/home/manish/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.4/npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "/home/manish/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
     "/home/manish/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/home/manish/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+    "/home/manish/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/home/manish/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.19/microsoft.netcore.app.host.linux-x64.7.0.19.nupkg.sha512"
   ],
   "logs": []
 }
